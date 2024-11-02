@@ -1,8 +1,8 @@
-CREATE DATABASE IF NOT EXISTS php1-jairosalgar15
+CREATE DATABASE IF NOT EXISTS php1_jairosalgar15
 CHARACTER SET utf8mb4
 COLLATE utf8mb4_general_ci;
 
-USE php1;
+USE php1_jairosalgar;
 
 CREATE TABLE IF NOT EXISTS usuarios (
   cedula INT(10) PRIMARY KEY NOT NULL,
