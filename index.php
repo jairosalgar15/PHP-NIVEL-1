@@ -1,3 +1,7 @@
+<?php include 'header.php'; ?>
+</body>
+</html>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +13,6 @@
 <body>
   <?php include './conexion.php' ?>
   <?php include './menu.php' ?>
-
-  <img src="./img-index.jpg" alt="imagen de la página de inicio" class="main-image">
+  <img src="./Lentes.jpg" alt="imagen de la página de inicio" class="main-image">
 </body>
 </html>
